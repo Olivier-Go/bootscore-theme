@@ -12,35 +12,19 @@ Site: https://bootscore.me/
 
 Docs: https://bootscore.me/category/documentation/
 
-bootScore combines the Underscores theme boiler template with Bootstrap 5 in a small starter theme for great WordPress projects. There are no settings in the customizer, no logo-uploader and no drag'n'drop. bootScore is 100% customizable by using the .php, .css and .js files. Basic coding skills for editing are required.
+Plugins: https://bootscore.me/plugins/
 
-bootScore comes with seamless Bootstrap integration and full WooCommerce support with an integrated ajax offcanvas cart.
 
 ## Installation
 
-1. Download the zip file right here by pressing the green `code` button above or get bootScore through the official [store](https://bootscore.me/shop/products/theme/bootscore-wordpress-theme/) (free) if you want to see how the WooCommerce checkout works. 
+Cloner ce repository dans `/wp-content/themes`
 
-2. Upload theme via the WordPress theme-uploader and activate it.
 
-## Child-theme(s)
+## Widget & Menu Positions
 
-Edit theme in an upgrade-safe way using the provided child-theme(s). Build your site from scratch with [bootScore Child](https://bootscore.me/shop/products/child-themes/bootscore-child-theme/) or start a new WooCommerce shop with presetted [bootCommerce Child](https://bootscore.me/shop/products/child-themes/bootcommerce-5-child-theme/).
+![](https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1000,h_1020/https://bootscore.me/wp-content/uploads/2020/05/bootscore-widget-menu-map.jpg)
 
-## Plugins
-
-Extend bootScore with tiny but usefull [plugins](https://bootscore.me/plugins/). Each plugin uses Bootstrap or adds it to 3rd party plugins.
-
-## Workflow
-
-bootScore is a time-saver and designed to quickly create clean mobile-first projects. If you are familiar with Bootstrap classes and HTML, you will feel like home and be able to build whatever you want.
-
-## Help
-
-Check the [documentation](https://bootscore.me/category/documentation/). If you have a question, find a bug or have an idea, feel free to leave a comment in the  respective section. No question is stupid and every comment will be answered. You must be a verified owner to post a comment. To become a verified owner, "buy" bootScore for free in the shop.
-
-You can use Github Issues for reporting as well.
-
-For important updates read the [blog](https://bootscore.me/category/blog/) and subscribe to the [newsletter](https://bootscore.me/category/blog/#newsletter). You will be informed if there is something new you should know.
+![](https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1000,h_981/https://bootscore.me/wp-content/uploads/2020/05/bootscore-widget-404-map.jpg)
 
 ## License & Credits
 
