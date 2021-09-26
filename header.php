@@ -25,7 +25,7 @@
     <link rel="mask-icon" href="<?php echo get_stylesheet_directory_uri();?>/img/favicon/safari-pinned-tab.svg" color="#0d6efd">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
-    
+
     <?php wp_head(); ?>
 </head>
 
@@ -61,7 +61,7 @@
                                         'container' => false,
                                         'menu_class' => '',
                                         'fallback_cb' => '__return_false',
-                                        'items_wrap' => '<ul id="bootscore-navbar" class="navbar-nav ms-auto %2$s">%3$s</ul>',
+                                        'items_wrap' => '<ul id="bootscore-navbar" class="navbar-nav %2$s">%3$s</ul>',
                                         'depth' => 2,
                                         'walker' => new bootstrap_5_wp_nav_menu_walker()
                                     ));
